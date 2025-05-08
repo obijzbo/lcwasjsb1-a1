@@ -2,7 +2,10 @@
 
 ## Submission Deadline: 11th May, 6:00 PM
 
-## Submission guideline: Push the code in the designated assignment repository. Mark as submitted in the github classroom. And then submit the link as classwork in google classroom
+### Submission guideline: 
+-  Push the code in the designated assignment repository.
+-  Mark as submitted in the github classroom.
+-  And then submit the link as classwork in google classroom
 
 ### Submission will be closed after deadline
 
